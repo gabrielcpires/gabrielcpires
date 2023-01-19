@@ -1,4 +1,5 @@
 ### Salve! Sou o Gabriel Carvalho e atualmente estudo no CEFET-CONTAGEM
+![snake gif](https://github.com/gabrielcpires/gabrielcpires/blob/output/github-contribution-grid-snake.svg)
 <!--
 **gabrielcpires/gabrielcpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
